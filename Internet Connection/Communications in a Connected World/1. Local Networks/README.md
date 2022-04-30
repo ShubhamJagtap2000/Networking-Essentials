@@ -1,0 +1,5 @@
+- Local networks come in all sizes.
+- They can range from simple networks consisting of two computers, to networks connecting hundreds of thousands of devices.
+- Networks installed in small offices, or homes and home offices, are referred to as small office/home office (SOHO) networks.
+- SOHO networks let you share resources such as printers, documents, pictures, and music, between a few local users.
+- 
