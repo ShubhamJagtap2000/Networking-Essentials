@@ -16,6 +16,8 @@
 
 - Small home networks connect a few computers to each other and to the internet 
 
+![smallnetwork](https://user-images.githubusercontent.com/63872951/166094572-729407d6-e18d-4678-b43c-4cf38720c2ce.jpg)
+
 
 
 **2. Small Office and Home Office Networks**
@@ -23,10 +25,17 @@
 -  The SOHO network allows computers in a home office or a remote office to connect to a corporate network, or access centralized, shared resources.
 
 
+![2d8b8f30-1c25-11ea-81a0-ffc2c49b96bc](https://user-images.githubusercontent.com/63872951/166094576-502bd0b6-3307-4c88-860a-706957355339.jpg)
+
+
 **3. Medium to Large Networks**
 
 - Medium to large networks, such as those used by corporations and schools, can have many locations with hundreds or thousands of interconnected hosts.
+
+![2d8bb640-1c25-11ea-81a0-ffc2c49b96bc](https://user-images.githubusercontent.com/63872951/166094610-24f9aedc-5789-4a7f-8915-80c0eefa8c69.jpg)
+
  
 **4. World Wide Networks**
 
 - The internet is a network of networks that connects hundreds of millions of computers world-wide.
+
