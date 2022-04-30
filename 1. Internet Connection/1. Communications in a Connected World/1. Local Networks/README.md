@@ -10,7 +10,9 @@
 - Business and SOHO networks usually provide a shared connection to the internet. 
 - The internet is considered a "network of networks" because it is literally made up of thousands of local networks that are connected to each other.
 
-**1. Small Home Networks**\
-**2. Small Office and Home Office Networks**\
-**3. Medium to Large Networks**\
-**4. World Wide Networks**
+# Other topics
+
+- [**1. Small Home Networks**]
+- [**2. Small Office and Home Office Networks**]
+- [**3. Medium to Large Networks**]
+- [**4. World Wide Networks**]
