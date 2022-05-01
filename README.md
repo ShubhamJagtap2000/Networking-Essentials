@@ -1,2 +1,2 @@
 # Networking-Essentials
-### Foundational understanding of networking for learners
+### The Foundational Understanding of Networking for Learners
