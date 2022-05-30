@@ -1,7 +1,7 @@
 # The MAC Address Table
 
 - If the destination MAC address is not in the table, the switch does not have the necessary information to create an individual circuit.
-- When the switch cannot determine where the destination host is located, it uses a process called flooding to forward the message out to all attached hosts except for the sending host.
+- When the switch cannot determine where the destination host is located, it uses a process called `flooding` to forward the message out to all attached hosts except for the sending host.
 - Each host compares the destination MAC address in the message to its own MAC address, but only the host with the correct destination address processes the message and responds to the sender.
 
 **How does the MAC address of a new host get into the MAC address table?**
