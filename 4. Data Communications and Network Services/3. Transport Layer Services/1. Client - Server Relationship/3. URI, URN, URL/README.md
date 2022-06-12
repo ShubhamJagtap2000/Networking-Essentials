@@ -18,7 +18,7 @@
 
 ## These are the parts of a URI, as shown in the figure:
 
-    Protocol/scheme -HTTPS or other protocols such as FTP, SFTP, mailto, and NNTP
+    Protocol/scheme - HTTPS or other protocols such as FTP, SFTP, mailto, and NNTP
     Hostname - www.example.com
     Path and file name - /author/book.html
     Fragment - #page155
