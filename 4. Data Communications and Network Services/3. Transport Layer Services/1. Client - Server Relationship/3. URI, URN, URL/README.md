@@ -23,4 +23,6 @@
     Path and file name - /author/book.html
     Fragment - #page155
     
+## Parts of URI
+
 ![Screenshot (644)](https://user-images.githubusercontent.com/63872951/173247773-93a4ea94-f268-4cbb-91fc-b2a7610507a5.png)
