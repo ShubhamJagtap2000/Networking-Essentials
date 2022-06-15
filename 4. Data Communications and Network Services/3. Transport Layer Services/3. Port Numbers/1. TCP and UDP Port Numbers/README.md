@@ -15,9 +15,9 @@
 - Ports are assigned and managed by an organization known as the Internet Corporation for Assigned Names and Numbers (ICANN). 
 - Ports are broken into three categories and range in number from 1 to 65,535:
 
-    **1. Well-Known Ports -** Destination ports that are associated with common network applications are identified as well-known ports. These ports are in the range of 1 to 1023.\
+    **1. Well-Known Ports -** Destination ports that are associated with common network applications are identified as well-known ports. These ports are in the range of 1 to 1023.
     
-    **2. Registered Ports -** Ports 1024 through 49151 can be used as either source or destination ports. These can be used by organizations to register specific applications such as IM applications.\
+    **2. Registered Ports -** Ports 1024 through 49151 can be used as either source or destination ports. These can be used by organizations to register specific applications such as IM applications.
     
     **3. Private Ports -** Ports 49152 through 65535 are often used as source ports. These ports can be used by any application.
 
