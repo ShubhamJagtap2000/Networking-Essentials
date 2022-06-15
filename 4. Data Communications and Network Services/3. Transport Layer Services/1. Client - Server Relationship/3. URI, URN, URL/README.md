@@ -14,7 +14,8 @@
 
 - This defines the network location of a specific resource on the network. 
 - HTTP or HTTPS URLs are typically used with web browsers. 
-- Other protocols such as FTP, SFTP, SSH, and others can use a URL. A URL using SFTP might look like: sftp://sftp.example.com.
+- Other protocols such as FTP, SFTP, SSH, and others can use a URL. 
+- A URL using SFTP might look like: sftp://sftp.example.com.
 
 ## These are the parts of a URI, as shown in the figure:
 
