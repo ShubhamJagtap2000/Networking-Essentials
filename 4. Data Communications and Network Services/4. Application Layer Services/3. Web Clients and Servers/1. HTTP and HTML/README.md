@@ -11,5 +11,5 @@
 - The HTTP protocol is not a secure protocol; information could easily be intercepted by other users as data is sent over the network. 
 - In order to provide security for the data, HTTP can be used with secure transport protocols. 
 - Requests for secure HTTP are sent to port 443. 
-- These requests use https in the site address in the browser, rather than http.
+- These requests use https in the site address in the browser, rather than HTTP.
 
