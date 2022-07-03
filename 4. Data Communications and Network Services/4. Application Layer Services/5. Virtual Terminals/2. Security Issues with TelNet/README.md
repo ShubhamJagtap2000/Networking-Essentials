@@ -10,6 +10,7 @@
 - It also provides stronger authentication than Telnet and supports transporting session data using encryption. 
 - As a best practice, network professionals should always use SSH in place of Telnet, whenever possible.
 - The figure illustrates how SSH is more secure than Telnet. 
+
 - Notice how the data captured by the hacker when Telnet is used is clearly readable while the data captured when SSH is used is encrypted and therefore more secure.
 
 ![Screenshot (659)](https://user-images.githubusercontent.com/63872951/174448700-24445e63-ee5f-4182-94de-da45ef5217e0.png)
