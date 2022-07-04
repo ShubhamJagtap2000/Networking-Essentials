@@ -22,3 +22,7 @@
   2. In other words, a switch is used to connect devices on the same network. 
   3. A router is used to connect multiple networks to each other.
 
+- In addition to switches and routers, there are other connectivity options available for LANs. 
+- Wireless access points that are deployed in enterprises enable computers and other devices, such as IP phones, to wirelessly connect to the network, or share broadband connectivity. 
+
+- Firewalls guard against network threats and provide security, network control, and containment.
