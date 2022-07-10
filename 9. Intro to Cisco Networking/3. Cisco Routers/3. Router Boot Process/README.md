@@ -2,7 +2,7 @@
 
 - Similar to a Cisco switch, there are several ways to access the command line interface on a Cisco router. 
  
-- The most common methods are as follows:
+- The most common methods are as follows :
 
     - **Console:** Uses a low speed serial or USB connection to provide direct connect, out-of-band management access to a Cisco device.
     - **SSH:** Method for remotely accessing a CLI session across an active network interface, including the management interface.
