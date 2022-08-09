@@ -38,3 +38,4 @@
 ### 7. [Network and Device Security](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/7.%20Network%20and%20Device%20Security)
 ### 8. [Security Configuration](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/8.%20Security%20Configuration)
 ### 9. [Intro to Cisco Networking](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/9.%20Intro%20to%20Cisco%20Networking)
+### 10. [Packet Tracer Lab Practicals](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/Packet%20Tracer%20Lab%20Practicals)
