@@ -1,7 +1,7 @@
-# [Networking-Essentials](https://skillsforall.com/course/networking-essentials)
+# Networking-Essentials
 ## 📡 The Foundational Understanding of Networking for Learners
 
-- The Cisco Networking Academy’s `Networking Essentials 2.0 (NetEss 2.0)` course provides learners with a broad foundational understanding of networking. **(SEE BELOW TOPICS)**
+- The Cisco Networking Academy’s **[Networking Essentials 2.0 (NetEss 2.0)](https://skillsforall.com/course/networking-essentials)** course provides learners with a broad foundational understanding of networking. **(SEE BELOW TOPICS)**
 
 - It is suitable for anyone interested in a career in ITC, or a related career pathway. `NetEss 2.0` is a self-paced course.
 
