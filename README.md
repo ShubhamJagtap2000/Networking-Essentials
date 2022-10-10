@@ -2,11 +2,14 @@
 ## 📡 The Foundational Understanding of Networking for Learners
 
 - The Cisco Networking Academy’s **[Networking Essentials 2.0 (NetEss 2.0)](https://skillsforall.com/course/networking-essentials)** course provides learners with a broad foundational understanding of networking. **(SEE BELOW TOPICS)**
-
+<!--
 - This repository is **<ins>Open For Contributions</ins>**. 
 
 - Before contributing, ensure you have read the [CONTRIBUTING GUIDELINES](https://github.com/ShubhamJagtap2000/Networking-Essentials/blob/main/CONTRIBUTING.md).
- 
+-->
+
+- This repo is currently **<ins>under maintainance</ins>**, it will be opened for contributions soon. You can still raise issues for feature requests (but not PR).
+
 - It is suitable for anyone interested in a career in ITC, or a related career pathway. `NetEss 2.0` is a **self-paced** course.
 
 - Upon completion of the Networking Essential 2.0 course, students will be able to perform the following tasks:
