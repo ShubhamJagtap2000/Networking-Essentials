@@ -3,7 +3,7 @@
 
 - The Cisco Networking Academy’s **[Networking Essentials 2.0 (NetEss 2.0)](https://skillsforall.com/course/networking-essentials)** course provides learners with a broad foundational understanding of networking. **(SEE BELOW TOPICS)**
 
-- This repository is open for contributions. 
+- This repository is **<ins>Open For Contributions</ins>**. 
 
 - Before contributing, ensure you have read the [CONTRIBUTING GUIDELINES](https://github.com/ShubhamJagtap2000/Networking-Essentials/blob/main/CONTRIBUTING.md).
  
