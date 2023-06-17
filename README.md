@@ -36,13 +36,13 @@
 
 # Topics
 
-### 1. [Internet Connection](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/01.%20Internet%20Connection)
-### 2. [Build a Simple Network](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/02.%20Build%20%20a%20Simple%20Network)
-### 3. [Network Protocols and Architecture](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/03.%20Network%20Protocols%20and%20Architecture)
-### 4. [Data Communications and Networking Services](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/04.%20Data%20Communications%20and%20Network%20Services)
-### 5. [Home Network Basics](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/05.%20Home%20Network%20Basics)
-### 6. [Connecting to Internet](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/06.%20Connecting%20to%20Internet)
-### 7. [Network and Device Security](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/07.%20Network%20and%20Device%20Security)
-### 8. [Security Configuration](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/08.%20Security%20Configuration)
-### 9. [Intro to Cisco Networking](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/09.%20Intro%20to%20Cisco%20Networking)
-### 10. [Resources](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/10.%20Resources)
+#### 1. [Internet Connection](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/01.%20Internet%20Connection)
+#### 2. [Build a Simple Network](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/02.%20Build%20%20a%20Simple%20Network)
+#### 3. [Network Protocols and Architecture](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/03.%20Network%20Protocols%20and%20Architecture)
+#### 4. [Data Communications and Networking Services](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/04.%20Data%20Communications%20and%20Network%20Services)
+#### 5. [Home Network Basics](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/05.%20Home%20Network%20Basics)
+#### 6. [Connecting to Internet](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/06.%20Connecting%20to%20Internet)
+#### 7. [Network and Device Security](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/07.%20Network%20and%20Device%20Security)
+#### 8. [Security Configuration](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/08.%20Security%20Configuration)
+#### 9. [Intro to Cisco Networking](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/09.%20Intro%20to%20Cisco%20Networking)
+#### 10. [Resources](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/10.%20Resources)
