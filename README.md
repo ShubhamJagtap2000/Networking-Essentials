@@ -8,7 +8,7 @@
 - Before contributing, ensure you have read the [CONTRIBUTING GUIDELINES](https://github.com/ShubhamJagtap2000/Networking-Essentials/blob/main/CONTRIBUTING.md).
 -->
 
-- This repo is currently **<ins>under maintainance</ins>**, it will be opened for contributions soon. You can still raise issues for feature requests (but not PR).
+<!-- This repo is currently **<ins>under maintainance</ins>**, it will be opened for contributions soon. You can still raise issues for feature requests (but not PR). -->
 
 - It is suitable for anyone interested in a career in ITC, or a related career pathway. `NetEss 2.0` is a **self-paced** course.
 
