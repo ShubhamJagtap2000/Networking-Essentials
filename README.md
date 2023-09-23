@@ -46,3 +46,6 @@
 #### 8. [Security Configuration](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/08.%20Security%20Configuration)
 #### 9. [Intro to Cisco Networking](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/09.%20Intro%20to%20Cisco%20Networking)
 #### 10. [Resources](https://github.com/ShubhamJagtap2000/Networking-Essentials/tree/main/10.%20Resources)
+
+
+**Please ⭐ this repo if you found it worth learning and useful for learning, thank you!**
